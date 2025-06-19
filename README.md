@@ -1,4 +1,4 @@
-# TypingSpeedCalculator
+🖹 Typing Speed Calculator
 
 A simple yet effective Typing Speed Calculator built using the tkinter module in Python. This GUI-based application helps users measure their typing speed in words per minute (WPM) and accuracy, making it great for practice or fun!
 
